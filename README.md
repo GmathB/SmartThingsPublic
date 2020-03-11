@@ -13,4 +13,4 @@ Follow us on the web:
 
 * Twitter: http://twitter.com/smartthingsdev
 * Facebook: http://facebook.com/smartthingsdevelopers
-newline added by TAG
+newline added by TAG_1
